@@ -63,8 +63,16 @@
   </a>
      <a href="https://www.java.com/pt-BR/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+      src="https://pbs.twimg.com/profile_images/1410016948977422337/rKU8iR89_400x400.png"
       alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+     <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img
+      src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"
+      alt="spring"
       width="40"
       height="40"
     />
