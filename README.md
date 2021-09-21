@@ -63,7 +63,7 @@
   </a>
      <a href="https://www.java.com/pt-BR/" target="_blank">
     <img
-      src="https://pbs.twimg.com/profile_images/1410016948977422337/rKU8iR89_400x400.png"
+      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png"
       alt="java"
       width="40"
       height="40"
@@ -71,10 +71,26 @@
   </a>
      <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img
-      src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"
+      src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg"
       alt="spring"
       width="40"
       height="40"
+    />
+  </a>
+     <a href="https://sass-lang.com/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"
+      alt="sass"
+      width="40"
+      height="50"
     />
   </a>
 </p>
