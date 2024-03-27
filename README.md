@@ -1,9 +1,8 @@
 ## Hey guys! What's up? I'm Maycon Prata <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### About me:
-- Frontend Developer from São Gonçalo/RJ, <img src="https://github.com/juliohm/awesome-brazil-data/blob/master/images/brazil-icon.png?raw=true" height=20>
-- 🎓 College Student in Bachelor of Information Systems at [Fluminense Federal University - ICUFF](http://ic.uff.br/index.php/en-GB/) 
-- 💼 Systems Analyst at **everis** NTT DATA
+- Full Stack Developer from São Gonçalo/RJ, <img src="https://github.com/juliohm/awesome-brazil-data/blob/master/images/brazil-icon.png?raw=true" height=20>
+- 🎓 Bachelor of Information Systems graduate from [Fluminense Federal University - ICUFF](http://ic.uff.br/index.php/en-GB/) 
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/pratamaycon/)
