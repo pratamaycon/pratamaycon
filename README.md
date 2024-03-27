@@ -70,7 +70,7 @@
   </a>
      <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img
-      src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg"
+      src="https://static-00.iconduck.com/assets.00/spring-icon-512x512-bdmpbhxj.png"
       alt="spring"
       width="40"
       height="40"
